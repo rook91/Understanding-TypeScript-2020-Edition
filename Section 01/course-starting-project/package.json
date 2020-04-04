@@ -1,0 +1,19 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "description": "learning TS",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "Tomasz Gawron",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
