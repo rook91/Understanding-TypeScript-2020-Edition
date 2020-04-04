@@ -1,1 +1,1 @@
-console.log('Test with lite');
+console.log("Test with lite");
